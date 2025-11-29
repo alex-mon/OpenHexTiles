@@ -31,7 +31,6 @@ This system is built from three main types of components:
 
 
 
-
 ## Printing Notes & Tested Settings
 
 These STL files are designed to be printed easily on most FDM printers, and should not require supports.
