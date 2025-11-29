@@ -14,13 +14,23 @@ All pieces are designed to be compatible, whether you are building a full map fr
 
 This project is shared with the community. You are encouraged to fork, remix, and share your own creations based on this system!
 
+![Using Paper Map](images/paper_map.jpg)
+![Full map system](images/full_map.jpg)
+
 ## Key Components
 
 This system is built from three main types of components:
 
 * **Hex Risers:** These are the core building blocks for elevation. They are stackable "Level" blocks (L1, L2, etc.) that lock together horizontally with a **dovetail connection** and stack vertically with a universal "lip" system.
+![Risers](images/risers.jpg)
 * **Terrain Inserts:** These are thin "toppers" or "caps" that fit perfectly into the top of any Hex Riser or Baseplate. They are used to mark special terrain types like forests, rough ground, water, and more.
+![Terrain Inserts](images/basic_text_inserts.jpg)
+![Road Inserts](images/road_inserts.jpg)
 * **Baseplates:** These are large, multi-hex (4x5) plates that act as the "Level 0" foundation. Use these if you want to build a complete, stable map from the ground up instead of using a paper map.
+![Base Plate](images/base_plate.jpg)
+
+
+
 
 ## Printing Notes & Tested Settings
 
